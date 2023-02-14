@@ -1,0 +1,15 @@
+C:\Users\cleit\OneDrive\Área de Trabalho\Estudos\Jogo de Quebra-cabeça\quebra-cabeça\quebra-cabeça\obj\Debug\net6.0\quebra-cabeça.csproj.AssemblyReference.cache
+C:\Users\cleit\OneDrive\Área de Trabalho\Estudos\Jogo de Quebra-cabeça\quebra-cabeça\quebra-cabeça\obj\Debug\net6.0\quebra-cabeça.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cleit\OneDrive\Área de Trabalho\Estudos\Jogo de Quebra-cabeça\quebra-cabeça\quebra-cabeça\obj\Debug\net6.0\quebra-cabeça.AssemblyInfoInputs.cache
+C:\Users\cleit\OneDrive\Área de Trabalho\Estudos\Jogo de Quebra-cabeça\quebra-cabeça\quebra-cabeça\obj\Debug\net6.0\quebra-cabeça.AssemblyInfo.cs
+C:\Users\cleit\OneDrive\Área de Trabalho\Estudos\Jogo de Quebra-cabeça\quebra-cabeça\quebra-cabeça\obj\Debug\net6.0\quebra-cabeça.csproj.CoreCompileInputs.cache
+C:\Users\cleit\OneDrive\Área de Trabalho\Estudos\Jogo de Quebra-cabeça\quebra-cabeça\quebra-cabeça\bin\Debug\net6.0\quebra-cabeça.exe
+C:\Users\cleit\OneDrive\Área de Trabalho\Estudos\Jogo de Quebra-cabeça\quebra-cabeça\quebra-cabeça\bin\Debug\net6.0\quebra-cabeça.deps.json
+C:\Users\cleit\OneDrive\Área de Trabalho\Estudos\Jogo de Quebra-cabeça\quebra-cabeça\quebra-cabeça\bin\Debug\net6.0\quebra-cabeça.runtimeconfig.json
+C:\Users\cleit\OneDrive\Área de Trabalho\Estudos\Jogo de Quebra-cabeça\quebra-cabeça\quebra-cabeça\bin\Debug\net6.0\quebra-cabeça.dll
+C:\Users\cleit\OneDrive\Área de Trabalho\Estudos\Jogo de Quebra-cabeça\quebra-cabeça\quebra-cabeça\bin\Debug\net6.0\quebra-cabeça.pdb
+C:\Users\cleit\OneDrive\Área de Trabalho\Estudos\Jogo de Quebra-cabeça\quebra-cabeça\quebra-cabeça\obj\Debug\net6.0\quebra-cabeça.dll
+C:\Users\cleit\OneDrive\Área de Trabalho\Estudos\Jogo de Quebra-cabeça\quebra-cabeça\quebra-cabeça\obj\Debug\net6.0\refint\quebra-cabeça.dll
+C:\Users\cleit\OneDrive\Área de Trabalho\Estudos\Jogo de Quebra-cabeça\quebra-cabeça\quebra-cabeça\obj\Debug\net6.0\quebra-cabeça.pdb
+C:\Users\cleit\OneDrive\Área de Trabalho\Estudos\Jogo de Quebra-cabeça\quebra-cabeça\quebra-cabeça\obj\Debug\net6.0\quebra-cabeça.genruntimeconfig.cache
+C:\Users\cleit\OneDrive\Área de Trabalho\Estudos\Jogo de Quebra-cabeça\quebra-cabeça\quebra-cabeça\obj\Debug\net6.0\ref\quebra-cabeça.dll
